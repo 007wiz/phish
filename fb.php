@@ -1,9 +1,4 @@
 ﻿<html>
-    <!--vikas-->
-    <!-- hdawhidhaidhiwahdiwahiwa -->
-
-
-    <!-- paras -->
 <head>
     <link href="Style.css" rel="stylesheet" />
     <title>Facebook home page template html</title>
